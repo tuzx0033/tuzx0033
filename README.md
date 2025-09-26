@@ -1,7 +1,8 @@
 # 👋 Hello! I'm Nguyễn Văn Minh Tú
 
-🎓 I'm a final-year student majoring in **Software Engineering** at **HUTECH University** (2020–2024).  
-💻 I'm passionate about **backend development**, love building complete products from backend to frontend, and solving real-world problems through code.
+🎓 Software Engineer, graduated from **HUTECH University** (2020–2024).  
+💻 Interested in frontend development and building user-friendly web applications.
+
 
 ---
 
