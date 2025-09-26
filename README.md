@@ -73,7 +73,7 @@
 ## 🔗 Connect with me
 
 - 📧 Email: **tuzx0033@gmail.com**
-- facebook: **https://www.facebook.com/tu.nguyen.285463/**
+- 🌐 Facebook: **https://www.facebook.com/tu.nguyen.285463/**
 
 ---
 
