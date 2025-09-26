@@ -60,6 +60,18 @@
 
 ---
 
+## 💼 Work Experience
+
+### 🔹 Frontend Developer | Thien Hai Software  
+📍 Ho Chi Minh City, Vietnam  
+🗓️ Feb 2023 – Mar 2024  
+
+### 🔹 Frontend Intern | VTEC  
+📍 Ho Chi Minh City, Vietnam  
+🗓️ Jul 2022 – Dec 2022  
+
+---
+
 ## 💬 Soft Skills
 
 - ✅ Problem-solving & Critical Thinking  
